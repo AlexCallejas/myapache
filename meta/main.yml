@@ -1,6 +1,6 @@
 galaxy_info:
   author: Alex Callejas
-  description: Simple rol to install Apache on RHEL based systems
+  description: Simple role to install Apache on RHEL based systems
   company: rootzilopochtli.com
 
   # If the issue tracker for your role is not on github, uncomment the
